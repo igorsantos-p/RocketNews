@@ -118,6 +118,8 @@ body{
     border-left: 5px solid var(--title-color);
     outline: none;
     box-shadow: 3px 3px 8px #000000;
+    -webkit-box-shadow: 3px 3px 8px #000000;
+    -moz-box-shadow: 3px 3px 8px #000000;
 }
 
 .container .form .mail-box button{
@@ -130,6 +132,8 @@ body{
     cursor: pointer;
     border: 2px solid --text-color;
     box-shadow: 3px 3px 8px #000000;
+    -webkit-box-shadow: 3px 3px 8px #000000;
+    -moz-box-shadow: 3px 3px 8px #000000;
 }
 
 .container .form .mail-box button{
