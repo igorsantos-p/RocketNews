@@ -103,6 +103,7 @@ body{
     display: flex;
     width: 115%;
     position: relative;
+    
 }
 
 .container .form .mail-box input{
@@ -116,6 +117,7 @@ body{
     color: var(--form-color);
     border-left: 5px solid var(--title-color);
     outline: none;
+    box-shadow: 3px 3px 8px #000000;
 }
 
 .container .form .mail-box button{
@@ -127,7 +129,7 @@ body{
     border: none;
     cursor: pointer;
     border: 2px solid --text-color;
-
+    box-shadow: 3px 3px 8px #000000;
 }
 
 .container .form .mail-box button{
